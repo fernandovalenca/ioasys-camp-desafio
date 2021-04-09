@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 93.75%;
+  font-family: 'Heebo', sans-serif;
+  font-smooth: antialiased;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media (min-width: 780px) {
+  html {
+    font-size: 87.5%;
+  }
+}
